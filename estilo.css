@@ -29,4 +29,6 @@ main{
 article{
     display: flex;
     background-color: rgb(124, 0, 0);
+    align-items: center;
+    padding: 24px;
 }
