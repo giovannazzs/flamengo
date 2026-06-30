@@ -1,8 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet");
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 body {
 background-color: rgb(179, 30, 30);
 color: black;
+font-family: "Special Elite", system-ui;
 }
 
 .cabecalho{
@@ -12,9 +13,7 @@ color: black;
     font-size: 25px;
 }
 
-main{
-    font-family: "Special Elite", system-ui;
-}
+
 img{
     width: 350px;
     height: 300px;
