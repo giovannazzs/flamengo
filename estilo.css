@@ -16,13 +16,13 @@ main{
     font-family: "Special Elite", system-ui;
 }
 img{
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 300px;
 }
 
 main{
     color: black;
-    max-width: 400px
+    max-width: 350px
     margin 0 auto;
     padding: 16px;
 }
