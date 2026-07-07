@@ -15,14 +15,14 @@ font-family: "Special Elite", system-ui;
 
 
 img{
-    width: 31
+    width: 31;
     width: 300px;
     height: 250px;
 }
 
 main{
     color: black;
-    max-width: 350px
+    max-width: 350px;
     margin 0 auto;
     padding: 16px;
 }
