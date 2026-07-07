@@ -32,3 +32,9 @@ article{
     align-items: center;
     padding: 24px;
 }
+button{
+    background-color: brown;
+    color: black;
+    padding: 32px;
+    border-radius: 20px;
+}
